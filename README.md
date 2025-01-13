@@ -55,22 +55,6 @@ This **Proxy Checker and Generator** is a **multithreaded** Python application t
 
 ---
 
-## 📸 Screenshots
-
-_Simple GUI Tabs:_
-```
-+--------------------------------------------+
-|  [Checker] [Generator] [Settings] [About]  |
-+--------------------------------------------+
-|   Proxy Checker: Validate Your Proxies      |
-|   Start    Stop    Load List                |
-|   -- Logs and statuses display here --      |
-+--------------------------------------------+
-```
-
-_Logs appear in `proxy_tool.log`, with saved results in `validated_proxies/valid_proxies.txt`._
-
----
 
 ## 🛠️ Installation
 
