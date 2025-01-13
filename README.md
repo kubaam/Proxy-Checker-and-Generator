@@ -133,12 +133,6 @@ If you appreciate this tool, you can support its development by donating here:
 
 ---
 
-## **License** 📜  
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.  
-
----
-
 ## **Happy Proxy Checking & Generating!** 🌐
 
 <!--
