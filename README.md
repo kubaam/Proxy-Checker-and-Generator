@@ -125,12 +125,21 @@ Licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 💬 Contact
+## **Support and Contributions** 🤝  
 
-- **Issues**: Open an [issue](../../issues).  
-- **Email**: [devteam@example.com](mailto:devteam@example.com)  
+Feel free to contribute or report bugs via GitHub. Pull requests are welcome!  
+If you appreciate this tool, you can support its development by donating here:  
+[**PayPal - Jakub Ambrus**](https://paypal.me/JakubAmbrus)  
 
-> **Happy Proxy Checking & Generating!** 🌐
+---
+
+## **License** 📜  
+
+This project is licensed under the **MIT License**. See `LICENSE` for details.  
+
+---
+
+## **Happy Proxy Checking & Generating!** 🌐
 
 <!--
 - Proxy Checker and Generator
