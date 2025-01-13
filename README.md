@@ -60,8 +60,8 @@ This **Proxy Checker and Generator** is a **multithreaded** Python application t
 
 1. **Clone** or **Download** this repository:
    ```bash
-   git clone https://github.com/your-repo/proxy-checker-generator.git
-   cd proxy-checker-generator
+   git clone https://github.com/kubaam/Proxy-Checker-and-Generator.git
+   cd Proxy-Checker-and-Generator.git
    ```
 
 2. **Install Dependencies**:
