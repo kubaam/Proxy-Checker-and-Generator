@@ -1,0 +1,7 @@
+requests
+tkinterdnd2
+ttkthemes
+winloop
+requests
+urllib3
+plyer
